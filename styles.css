@@ -1,0 +1,22 @@
+body{
+    padding: 25px 0px;
+    margin:auto 0;
+}
+a{ text-decoration:none;}
+
+.row{
+ text-align:center;
+}
+.align-left{ text-align: left; margin-left:32px;}
+.align-center{ text-align: center; margin-bottom:22px;}
+.exercises{
+    margin: 12px 0px;
+    padding: 8px 0px;
+}
+#strPlay{width:200px;}
+#heading{ font-weight:bold; color:#336699;}
+#description{ margin:12px 32px; text-align:left; font-weight:bold; width:92%;}
+#ex1, #ex2, #ex3 {display:none; width:92%; border:1px solid #336699; margin-left:5%; border-radius: 4px; }
+#exStrRes{width: 90%; border:1px solid #336699; margin-left:5%; border-radius: 4px; text-align: left; height: 200px;}
+#showOnly{ background-color:#e1e1e1; border:none; width:200px;}
+
